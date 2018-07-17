@@ -6,9 +6,11 @@
   "dependencies": {
     "@angular/cli": "^6.0.8",
     "@angular/common": "^6.0.8",
+    "@angular/compiler": "^6.0.8",
     "@angular/core": "^6.0.8",
     "@angular/elements": "^6.0.8",
     "@angular/platform-browser": "^6.0.8",
+    "@angular/platform-browser-dynamic": "^6.0.8",
     "@webcomponents/custom-elements": "^1.1.2",
     "core-js": "^2.5.7",
     "rxjs": "^6.2.2",
