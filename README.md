@@ -1,5 +1,7 @@
 # Web Components with Angular 6 Elements
 
+> It's a proof of concecpt project!
+
 Built from a default Angular CLI setup
 
 Commands:
