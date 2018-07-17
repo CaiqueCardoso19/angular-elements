@@ -1,0 +1,23 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "description": "> proof of concept",
+  "main": "index.js",
+  "dependencies": {
+    "@angular/cli": "^6.0.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CaiqueCardoso19/angular-elements.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CaiqueCardoso19/angular-elements/issues"
+  },
+  "homepage": "https://github.com/CaiqueCardoso19/angular-elements#readme"
+}
